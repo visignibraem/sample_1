@@ -1,4 +1,4 @@
-# supervisely_1
+# sample_1
 Code example 1
 
 
